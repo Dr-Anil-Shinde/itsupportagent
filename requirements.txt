@@ -1,0 +1,14 @@
+python-dotenv==1.0.1
+einops==0.8.0
+accelerate==1.2.1
+sentence-transformers==2.7.0
+bitsandbytes==0.45.0
+pinecone-client==5.0.1
+llama-index-vector-stores-pinecone==0.4.2
+llama-index-llms-huggingface==0.4.1
+llama-index-embeddings-huggingface==0.4.0
+llama-index-embeddings-instructor==0.3.0
+llama-index==0.12.9
+transformers==4.46.3
+sentence-transformers==2.7.0
+pypdf==5.1.0
