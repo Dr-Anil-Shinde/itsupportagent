@@ -11,4 +11,4 @@ llama-index-embeddings-instructor==0.3.0
 llama-index==0.12.9
 transformers==4.46.3
 sentence-transformers==2.7.0
-pypdf==5.1.0
+
