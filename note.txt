@@ -1,1 +1,0 @@
-This is RAG based chatbot agent and uses all the open source llms for embedding and inferencing.
