@@ -24,7 +24,7 @@ from llama_index.llms.huggingface import HuggingFaceLLM
 from huggingface_hub import login
 login(token="")
 from huggingface_hub import login
-os.environ['PINECONE_API_KEY'] = "660638e0-ad6f-4e29-a5a2-b30c7f43cd10"
+os.environ['PINECONE_API_KEY'] = ""
 os.environ['PINECONE_ENVIRONMENT'] = 'us-east-1'
 pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY"))
 gcc_index = pc.Index("customersupport")
